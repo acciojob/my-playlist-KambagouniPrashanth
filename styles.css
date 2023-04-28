@@ -1,12 +1,17 @@
 /*  your css code here. If applicable */
 .parent{
-	background-color:cadetblue;
+	background-color:#cccccc;
 }
 .player_one{
-	
-	text-decoration:none;
 	background-color:white;
 }
-.child-pone{
-	margin-bottom:4px;
+.child-a{
+	text-decoration:none;
+	text-color:black;
+	margin-bottom:10px;
+}
+.player_two,.player_three{
+	position: relative;
+	bottom:-30px;
+	right:-400px;
 }
