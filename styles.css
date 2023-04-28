@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.parent{
+	background-color:cadetblue;
+}
+.player_one{
+	
+	text-decoration:none;
+	background-color:white;
+}
+.child-pone{
+	margin-bottom:4px;
+}
